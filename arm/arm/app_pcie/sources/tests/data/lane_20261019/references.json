@@ -1,0 +1,11 @@
+{
+  "coordinate_system": "640x360 Q1; manually selected approximate reference points, not pixel-level ground truth",
+  "samples": [
+    {"file":"355d3a9f4421a049f4dd728e3dfbe534.jpg","left":"solid","right":"dashed","left_points":[170,280,154,300],"right_points":[319,280,353,298]},
+    {"file":"520fc0471a90bc0cc3719b5843ff8372.jpg","left":"solid","right":"solid","left_points":[126,280,65,320],"right_points":[280,280,326,325]},
+    {"file":"f694bfc90fdd7c72b5b9dab59d63a841.jpg","left":"solid","right":"dashed","left_points":[149,300,116,320],"right_points":[304,300,337,327]},
+    {"file":"b0390569af72b7a4e4749f0cbee2387e.jpg","left":"dashed","right":"dashed","left_points":[244,263,204,293],"right_points":[345,263,380,293]},
+    {"file":"324855e4552104aee93d7f0f14f1244d.jpg","left":"dashed","right":"dashed","left_points":[241,267,200,304],"right_points":[351,264,387,300]},
+    {"file":"b3b61ae01949a91650534856ac89d651.jpg","left":"dashed","right":"dashed","left_points":[302,288,267,323],"right_points":[415,288,465,323]}
+  ]
+}

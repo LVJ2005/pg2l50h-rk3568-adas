@@ -1,0 +1,54 @@
+# Local builds and caches
+**/build/
+**/__pycache__/
+*.py[cod]
+*.exe
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.cache.mk
+Module.symvers
+modules.order
+*.mod.o
+*.swp
+*.swo
+*.log
+*.tmp
+adas_debug/
+
+# FPGA generated implementation output
+**/compile/
+**/synthesize/
+**/place_route/
+**/generate_netlist/
+**/generate_bitstream/
+**/report_timing/
+**/report_power/
+**/logbackup/
+**/constraint_backup/
+**/constraint_check/
+**/device_map/
+**/pnr/
+**/sim/modelsim/
+*.db
+*.adf
+*.sbit
+*.smsk
+*.netlist
+*.vm
+
+# Local secrets / editor files
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+
+# Legacy files present in the local copy but unused by the current application
+arm/arm/app_pcie/includes/plate_tracker.h
+arm/arm/app_pcie/includes/violation_detector.h
+arm/arm/app_pcie/includes/yolo.h
+arm/arm/app_pcie/includes/pcie_dma_read_test.h
+arm/arm/app_pcie/sources/tests/yolo_image_test.cpp

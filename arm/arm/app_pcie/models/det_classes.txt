@@ -1,0 +1,3 @@
+person
+crosswalk
+traffic_light

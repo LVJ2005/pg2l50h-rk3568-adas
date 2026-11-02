@@ -1,0 +1,8 @@
+yellow
+straight_red
+left_red
+right_red
+straight_green
+right_green
+left_green
+off
